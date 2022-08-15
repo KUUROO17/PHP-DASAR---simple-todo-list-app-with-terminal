@@ -15,5 +15,5 @@ this is a simple view of a todo-list application made with PHP BASIC, which is r
 4. then enter the correct number then the data will be deleted
 <img width="172" alt="6" src="https://user-images.githubusercontent.com/78607595/184662188-18afeba8-e585-4402-9943-73d4fc569c07.PNG">
 
-5. kemudian inputkan string (x) supaya keluar dari program
+5. then input the string (x) to exit the program
 <img width="198" alt="7" src="https://user-images.githubusercontent.com/78607595/184662289-5ecd2dff-da44-4323-9bea-3e5332881ebb.PNG">
